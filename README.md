@@ -19,7 +19,7 @@ Network pruning :
                 Less no of weights
                 60m weights to 6m weights
 
-Weighgt sharin:
+Weights sharing:
 
               Reduce storage for each remaining weights.
               Eg. 32bit to 4bit
