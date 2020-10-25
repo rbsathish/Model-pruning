@@ -24,14 +24,14 @@ Network pruning :
 
 Weights sharing:
 
-              Reduce storage for each remaining weights.
-              Eg. 32bit to 4bit
+                Reduce storage for each remaining weights.
+                Eg. 32bit to 4bit
 
 
 Huffman coding:
 
-            Entropy of total remaining weights
+                Entropy of total remaining weights
 
 References:
           
-          https://www.youtube.com/watch?v=CrDRr2fxbsg
+                https://www.youtube.com/watch?v=CrDRr2fxbsg
