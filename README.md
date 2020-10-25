@@ -9,7 +9,7 @@ MODEL PRUNING:
 
               Nowadays, model pruning needs very much for running the machine learning models on mobile and embedded devices.
               
-              In production Reduce memory,battery,and hardware consumption without sacrificing accuracy we need to deploy lightweight models on devices and also we need to                       guarante privacy with private on device computation.
+              In production Reduce memory,battery,and hardware consumption without sacrificing accuracy we need to deploy lightweight models on devices and also we need to guarante privacy with private on device computation.
               
               And in Research Learning Dynamics of over-parametrized and under parametrized networks,constrained optimization,initialization & more.
               
