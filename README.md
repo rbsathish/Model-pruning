@@ -31,3 +31,7 @@ Weights sharing:
 Huffman coding:
 
             Entropy of total remaining weights
+
+References:
+          
+          https://www.youtube.com/watch?v=CrDRr2fxbsg
