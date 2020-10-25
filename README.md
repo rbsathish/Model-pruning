@@ -20,7 +20,7 @@ MODEL PRUNING:
 Network pruning :
                 
                 Less no of weights
-                60m weights to 6m weights
+                Eg. 60m weights to 6m weights
 
 Weights sharing:
 
